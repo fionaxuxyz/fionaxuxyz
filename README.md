@@ -108,5 +108,3 @@ I'm especially interested in engineering roles involving:
 ## Contact
 
 **GitHub** · [@fionaxuxyz](https://github.com/fionaxuxyz)
-
-**Email** · your-email@example.com
