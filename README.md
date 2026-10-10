@@ -424,87 +424,9 @@ Even when the basic mechanics are simple, making each click, transition, and res
 
 </details>
 
-## 🧠 我的技术方向 / Engineering Focus
+## 💻 我的技术方向 / Engineering Focus
 
-### 🎀 01 / 产品工程与前端开发 / Product & Front-End Engineering
-
-我喜欢从产品本身出发思考技术问题。比起单纯实现一个页面，我更在意整个交互流程是否自然、功能是否真正解决问题，以及代码是否能够支撑产品继续迭代。
-
-熟悉 React 生态，有复杂交互、状态同步、数据可视化和完整 Web 应用开发经验。也很喜欢研究界面设计与产品体验，希望把工程能力和审美结合起来。
-
-I like approaching engineering problems from the product's point of view. Beyond implementing a page, I care about whether the flow is intuitive, the feature solves a genuine problem, and the code can support future iteration.
-
-I work with the React ecosystem and have experience in complex interactions, synchronized state, data visualization, and end-to-end web products. I enjoy combining engineering rigor with visual judgment.
-
-**技术栈 / Stack:** `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Vite` · `REST API` · `Responsive Design`
-
-### 🤖 02 / AI Native 与 Agent Harness / AI-Native & Agent Harness
-
-我对 AI 的兴趣，始于它让很多过去只能停留在想象中的产品有了实现的可能。
-
-但真正开始做 Agent 之后，我发现让大模型回答问题，和让一个 AI 系统可靠地完成任务，完全是两回事。
-
-我关注如何把 LLM 与业务工具、数据检索、长期记忆和真实应用结合起来，构建能够理解意图、获取证据、使用工具并持续交互的 AI Native 产品。
-
-同时，也在实践 Agent Harness 相关工程能力，包括工具执行边界、结构化校验、失败恢复、错误分类、Tracing、评测与回归测试。
-
-我希望做的不只是聪明的 AI Demo，而是真正可以交付和长期使用的 AI 应用。
-
-What first excited me about AI was its ability to turn previously unrealistic product ideas into something buildable.
-
-But after building agents, I learned that making a model answer a question and making an AI system execute tasks reliably are two very different challenges.
-
-I'm interested in connecting LLMs with business tools, retrieval, persistent memory, and real applications — building AI-native experiences that interpret requests, gather evidence, use tools, and maintain context.
-
-I also work on agent harness concerns such as execution boundaries, structured validation, failure recovery, error classification, tracing, evaluation, and regression testing.
-
-I want to build more than clever AI demos: I want to build systems people can actually depend on.
-
-**技术栈 / Stack:** `Python` · `FastAPI` · `LLM API` · `Tool Calling` · `AI Agent` · `RAG` · `Embedding` · `Vector Search` · `PostgreSQL / pgvector` · `Memory` · `Evaluation` · `Tracing`
-
-### 🛠 03 / 全栈开发与系统工程 / Full-Stack & Systems
-
-虽然现在最喜欢的方向是前端与 AI，但我的项目经历并不局限于浏览器。
-
-我也做过不少 Java 后端开发，接触过完整的 Web 业务系统、数据库设计、消息队列与容器化环境。
-
-在开发 WiseSpend 时，也独立打通了 React、Spring Boot、PostgreSQL 与 Python AI Service 的完整链路。
-
-我喜欢理解一个产品从界面到服务器、从 API 到数据存储的整个运行过程，而不只是负责其中的一小部分。
-
-Although front-end and AI engineering are my current favorites, my experience extends beyond the browser.
-
-I've worked on Java backends, full-stack business applications, database design, message queues, and containerized environments.
-
-For WiseSpend, I independently connected the full application path across React, Spring Boot, PostgreSQL, and a Python AI service.
-
-I like understanding how a product works end to end — from interface to server and from APIs to persistent data — rather than only owning one isolated part.
-
-**技术栈 / Stack:** `Java` · `Spring Boot` · `Python` · `FastAPI` · `PostgreSQL` · `SQL` · `Redis` · `RabbitMQ` · `Docker` · `REST API` · `Git`
-
-### 🧊 04 / 3D Web 与 Blender 建模 / 3D Web & Blender
-
-我对 3D 的兴趣，来自一种很简单的想法：如果能把脑子里想象的东西直接做出来，一定很好玩。
-
-从浏览器端的 Three.js 交互，到 Blender 中的建筑与场景建模，我都很喜欢研究几何、空间、材质和用户交互之间的关系。
-
-在 3D 厨房设计项目中，我实践了参数化家具资产、坐标与尺寸体系、三维交互和设计状态联动。
-
-在山塘街项目中，我又尝试从建模与场景创作的角度表达空间和文化氛围。
-
-我希望未来能够继续探索 3D、Web 和 AI 结合的更多可能。
-
-My interest in 3D started with a simple thought: it would be incredible to build the things I can imagine.
-
-From interactive Three.js experiences in the browser to architecture and scene modeling in Blender, I enjoy exploring the relationships between geometry, space, materials, and interaction.
-
-In the kitchen designer, I worked on parametric furniture, coordinate and dimension systems, spatial interaction, and synchronized design state.
-
-In Shantang Street, I explored how modeling and scene composition can express a place's spatial and cultural character.
-
-I'd love to keep exploring what becomes possible when 3D, the web, and AI meet.
-
-**技术栈 / Stack:** `Three.js` · `React Three Fiber` · `Blender` · `WebGL` · `Procedural Geometry` · `3D Modeling` · `Scene Composition`
+<img src="./assets/engineering-focus.svg" alt="Four engineering fields: product frontend, AI agents, full stack systems, and 3D web. English descriptions and bilingual titles." width="100%" />
 
 ---
 
