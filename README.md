@@ -304,7 +304,7 @@ It may not be a huge commercial platform, but it solves a problem that genuinely
 
 ### 04 / 🌸 山塘街多媒体交互体验 / Shantang Street
 
-🔗 **[查看山塘街作品 / Explore Shantang Street](https://github.com/fionaxuxyz/shantang-street-portfolio)**
+🔗 **[查看山塘街作品 / Explore Shantang Street](https://fionaxuxyz.github.io/shantang-street-portfolio/)**
 
 **以苏州山塘街为主题的交互式数字文化展示作品 / 3D cultural heritage and interactive web showcase**
 
@@ -350,7 +350,7 @@ I loved the process: observing physical buildings, then thinking through how geo
 
 **Stack / Tools:** `Blender` · `3D Modeling` · `Scene Composition` · `Web Presentation`
 
-🔗 **[查看山塘街作品 / Explore the Shantang portfolio](https://github.com/fionaxuxyz/shantang-street-portfolio)**
+🔗 **[查看山塘街作品 / Explore the Shantang portfolio](https://fionaxuxyz.github.io/shantang-street-portfolio/)**
 
 *个人课程作品 / Individual coursework · 已部署展示版 / Deployed showcase*
 
