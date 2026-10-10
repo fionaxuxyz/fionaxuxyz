@@ -4,13 +4,11 @@
 
 # Hi, it's Fiona! 💜
 
-**AI × Product**
+**你好呀，这里是 Fiona！** 一个喜欢探索新技术、设计交互体验，也热衷于把脑洞变成真实产品的开发者。热爱生活，也热爱互联网。喜欢一切新鲜有趣、值得亲自动手尝试的东西。✨
 
 `FULL-STACK` · `AGENT` · `CREATIVE ENGINEERING`
 
 ### <a href="https://fionaxuxyz.github.io/portfolio/">✦ Explore My Portfolio ↗</a>
-
-**你好呀，这里是 Fiona！** 一个喜欢探索新技术、设计交互体验，也热衷于把脑洞变成真实产品的开发者。热爱生活，也热爱互联网。喜欢一切新鲜有趣、值得亲自动手尝试的东西。✨
 
 </div>
 
@@ -79,9 +77,9 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 
 ## 🎓 教育背景 / Education
 
-**悉尼大学 / University of Sydney** — Master of Computer Science · 2024–2026
+**悉尼大学 / University of Sydney** — Master of Computer Science
 
-**华南理工大学 / South China University of Technology** — Bachelor of Mathematics and Applied Mathematics · 2017–2021
+**华南理工大学 / South China University of Technology** — Bachelor of Mathematics and Applied Mathematics
 
 ---
 
