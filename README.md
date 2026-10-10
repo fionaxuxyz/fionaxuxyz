@@ -82,7 +82,7 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 
 ### 01 / 🪻 知省 WiseSpend
 
-<a href="https://github.com/fionaxuxyz/wisespend-case-study"><img src="./assets/wisespend-cover.svg" alt="知省 WiseSpend — project cover" width="100%" /></a>
+<a href="https://github.com/fionaxuxyz/wisespend-case-study"><img src="./assets/wisespend-cover.png" alt="知省 WiseSpend — project cover" width="100%" /></a>
 
 🔗 **[查看知省产品案例 / Explore the case study](https://github.com/fionaxuxyz/wisespend-case-study)**
 
@@ -156,7 +156,7 @@ My hope is to make financial management a little less stressful and a little mor
 
 ### 02 / 🏡 3D 厨房设计器 / 3D Kitchen Designer
 
-<img src="./assets/kitchen-cover.svg" alt="3D Kitchen Designer — project cover" width="100%" />
+<img src="./assets/kitchen-cover.png" alt="3D Kitchen Designer — project cover" width="100%" />
 
 **基于浏览器的交互式 3D 厨房设计与报价平台 / Browser-based interactive kitchen design and quotation platform**
 
@@ -219,7 +219,7 @@ It was also my first opportunity to solve an integrated set of production-style 
 
 ### 03 / 💞 Together · 双人实时互动空间 / Shared Space for Two
 
-<img src="./assets/together-cover.svg" alt="Together — project cover" width="100%" />
+<img src="./assets/together-cover.png" alt="Together — project cover" width="100%" />
 
 **基于 WebRTC 的双人实时视频与共享场景应用 / WebRTC-powered video and shared-scene app**
 
