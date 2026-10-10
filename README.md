@@ -12,7 +12,7 @@
 
 `Full-Stack` · `AI Agent` · `3D Web` · `Creative Engineering`
 
-[精选作品 / Projects](#-精选作品--selected-works) · [技术方向 / Engineering](#-我的技术方向--engineering-focus) · [联系我 / Contact](#-联系我--contact)
+[✨ 精选作品 / Selected Works](#selected-works) · [⚙️ 更多工程实践 / More Projects](#more-projects) · [🧠 技术方向 / Engineering](#-我的技术方向--engineering-focus)
 
 </div>
 
@@ -74,7 +74,12 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 
 ---
 
-## ✨ 精选作品 / Selected Works
+<a id="selected-works"></a>
+
+<details>
+<summary><strong>✨ 精选作品 / Selected Works</strong>　　点击展开  /  Click to explore</summary>
+
+
 
 ### 01 / 🪻 知省 WiseSpend
 
@@ -352,7 +357,15 @@ I loved the process: observing physical buildings, then thinking through how geo
 
 ---
 
-## ⚙️ 更多工程实践 / More Engineering Projects
+
+</details>
+
+<a id="more-projects"></a>
+
+<details>
+<summary><strong>⚙️ 更多工程实践 / More Engineering Projects</strong>　　点击展开  /  Click to explore</summary>
+
+
 
 ### 📊 个人财务管理系统 / Budget Tracker
 
@@ -407,6 +420,9 @@ Even when the basic mechanics are simple, making each click, transition, and res
 🔗 [查看代码 / View repository](https://github.com/fionaxuxyz/Quiz-Game-)
 
 ---
+
+
+</details>
 
 ## 🧠 我的技术方向 / Engineering Focus
 
