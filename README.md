@@ -20,8 +20,6 @@
 
 ## 🌷 关于我 / About Me
 
-### 中文
-
 高强度互联网冲浪选手，长期关注新产品、AI 前沿动态和各种新奇的技术实验。24/7 在线和 AI 对话也不是没可能，Vibe Coding 重度玩家，偶尔觉得自己已经快和电脑融为一体了（但本人也是超级现充！）。
 
 技术栈有点杂，因为真的什么都想试试。
@@ -47,8 +45,6 @@
 - 🧠 **AI Native 应用：** 探索大模型、工具调用、长期记忆与真实业务结合后，能够创造哪些新的产品体验。
 - ⚙️ **Agent Harness 工程：** 不满足于让 Agent 看起来很聪明，更希望它能够可靠地执行任务、处理异常，并给出有依据的结果。
 - 🪄 **创意与灵感：** 脑子里有超级超级多想法，最大的乐趣就是把其中一些真正做出来。
-
-### English
 
 I'm an extremely online tech enthusiast who follows new products, frontier AI developments, and unconventional experiments. Chatting with AI around the clock? Entirely possible. I'm heavily into vibe coding, and sometimes feel like I'm merging with my computer (but I also have a very active social life!).
 
@@ -88,7 +84,7 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 
 **AI 驱动的个人财务复盘助手 / AI-powered personal finance reflection assistant**
 
-#### 中文 · 不只是记账，更是理解自己。
+#### 不只是记账，更是理解自己。
 
 很多 P 人都经历过这样的时刻：某天突然决定认真理财，兴致勃勃下载记账软件，坚持记录每一笔消费，然后……就没有然后了。
 
@@ -117,7 +113,7 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 - 设计 Agent Harness，围绕证据校验、工具调用、异常处理、Tracing 与回归评测构建可靠性机制。
 - 通过业务数据与 AI 推理分层，让模型负责理解和决策，让结构化数据与工具提供可验证的事实依据。
 
-#### English · Don't just track your money. Understand yourself.
+#### Don't just track your money. Understand yourself.
 
 Many spontaneous, go-with-the-flow people know the pattern: one day you decide to take your finances seriously, enthusiastically download an expense tracker, log every purchase — and then quietly stop.
 
@@ -160,7 +156,7 @@ My hope is to make financial management a little less stressful and a little mor
 
 **基于浏览器的交互式 3D 厨房设计与报价平台 / Browser-based interactive kitchen design and quotation platform**
 
-#### 中文 · 从空间想象，到真正看得见、改得动的设计方案。
+#### 从空间想象，到真正看得见、改得动的设计方案。
 
 装修时最让人头疼的事情之一，就是脑子里的设计想法和最终呈现的效果总有距离。平面图不够直观，三维效果难以自由调整，改完设计之后，报价又可能是另一回事。
 
@@ -186,7 +182,7 @@ My hope is to make financial management a little less stressful and a little mor
 - 实现 2D / 3D 设计状态同步与 Design-to-Quote 业务联动。
 - 优化三维资源加载、渲染性能及交互体验。
 
-#### English · From imagined spaces to designs you can see and change.
+#### From imagined spaces to designs you can see and change.
 
 One of the hardest parts of renovating a kitchen is translating an idea into a practical result. Floor plans can feel abstract, 3D previews can be difficult to adjust, and quotations may not stay in sync when designs change.
 
@@ -223,7 +219,7 @@ It was also my first opportunity to solve an integrated set of production-style 
 
 **基于 WebRTC 的双人实时视频与共享场景应用 / WebRTC-powered video and shared-scene app**
 
-#### 中文 · 让距离不再意味着缺席。
+#### 让距离不再意味着缺席。
 
 做这个项目的起因其实很简单：我真的每天都很想念远距离的男朋友。💗
 
@@ -264,7 +260,7 @@ It was also my first opportunity to solve an integrated set of production-style 
 - 适配不同屏幕尺寸，支持桌面端与移动端使用。
 - 使用阿里云与 Render 完成线上部署和服务配置。
 
-#### English · Distance shouldn't mean absence.
+#### Distance shouldn't mean absence.
 
 The reason I built this was pretty simple: I missed my long-distance boyfriend every day. 💗
 
@@ -308,7 +304,7 @@ It may not be a huge commercial platform, but it solves a problem that genuinely
 
 **以苏州山塘街为主题的交互式数字文化展示作品 / 3D cultural heritage and interactive web showcase**
 
-#### 中文 · 用 3D 建模与数字交互，重新讲述城市文化。
+#### 用 3D 建模与数字交互，重新讲述城市文化。
 
 说起来，这个项目最开始只是一门课程的 Assignment。
 
@@ -329,7 +325,7 @@ It may not be a huge commercial platform, but it solves a problem that genuinely
 - 🎨 **文化与视觉表达：** 将江南街巷的地域特色融入数字作品。
 - 🌐 **Web 作品展示：** 将建模成果与网页呈现结合，制作可在线浏览的项目作品集。
 
-#### English · Retelling cultural stories through 3D modeling and the web.
+#### Retelling cultural stories through 3D modeling and the web.
 
 This project started as a university assignment.
 
@@ -360,15 +356,11 @@ I loved the process: observing physical buildings, then thinking through how geo
 
 ### 📊 个人财务管理系统 / Budget Tracker
 
-**中文**
-
 在这个团队项目中，我们围绕日常财务管理需求开发了一套 Web 应用，覆盖账户管理、交易记录、财务报表和数据分析等功能。
 
 它是我参与完整前后端协作的一次实践，也让我更系统地接触了业务数据管理、API 交互和前端可视化。
 
 **工程实践：** 参与账户、交易与报表模块开发；使用 React 构建可视化页面；通过 Spring Boot API 处理业务数据；支持报表分析与导出。
-
-**English**
 
 In this team project, we developed a personal finance web application covering account management, transactions, reports, and analytics.
 
@@ -380,15 +372,11 @@ It gave me practical experience collaborating across the front-end and back-end,
 
 ### 📦 企业电商系统 / Enterprise Online Store
 
-**中文**
-
 一个围绕真实电商业务流程构建的后端工程项目。订单完成之后，还涉及配送请求、状态更新、消息通知等一系列异步操作。
 
 我们使用 Spring Boot、RabbitMQ 和 PostgreSQL 构建相关流程，探索如何通过消息机制让不同业务模块协作，而不是将所有操作紧密耦合在一起。
 
 **工程实践：** RabbitMQ 异步消息、Spring Boot 服务与接口、PostgreSQL 数据存储、Docker 环境管理，以及事件驱动的模块解耦。
-
-**English**
 
 A back-end engineering project built around realistic e-commerce workflows. After placing an order, delivery requests, status updates, and notifications need to be coordinated asynchronously.
 
@@ -402,15 +390,11 @@ We used Spring Boot, RabbitMQ, and PostgreSQL to explore how message-driven work
 
 ### 🎮 Quiz Game · 互动答题小游戏 / Interactive Quiz
 
-**中文**
-
 Quiz Game 是一个围绕答题互动开发的 Web 项目，重点练习前端交互逻辑、用户操作反馈和应用状态管理。
 
 做小游戏很有意思的一点是：功能本身可能并不复杂，但想让每次点击、切换和反馈都顺畅自然，依然需要认真设计。
 
 **工程实践：** JavaScript 答题流程、状态更新、用户反馈、HTML/CSS 页面结构与交互细节。
-
-**English**
 
 Quiz Game is a browser-based interactive quiz built to practice front-end interaction logic, feedback, and application state management.
 
@@ -428,13 +412,9 @@ Even when the basic mechanics are simple, making each click, transition, and res
 
 ### 🎀 01 / 产品工程与前端开发 / Product & Front-End Engineering
 
-**中文**
-
 我喜欢从产品本身出发思考技术问题。比起单纯实现一个页面，我更在意整个交互流程是否自然、功能是否真正解决问题，以及代码是否能够支撑产品继续迭代。
 
 熟悉 React 生态，有复杂交互、状态同步、数据可视化和完整 Web 应用开发经验。也很喜欢研究界面设计与产品体验，希望把工程能力和审美结合起来。
-
-**English**
 
 I like approaching engineering problems from the product's point of view. Beyond implementing a page, I care about whether the flow is intuitive, the feature solves a genuine problem, and the code can support future iteration.
 
@@ -443,8 +423,6 @@ I work with the React ecosystem and have experience in complex interactions, syn
 **技术栈 / Stack:** `React` · `TypeScript` · `JavaScript` · `HTML` · `CSS` · `Vite` · `REST API` · `Responsive Design`
 
 ### 🤖 02 / AI Native 与 Agent Harness / AI-Native & Agent Harness
-
-**中文**
 
 我对 AI 的兴趣，始于它让很多过去只能停留在想象中的产品有了实现的可能。
 
@@ -455,8 +433,6 @@ I work with the React ecosystem and have experience in complex interactions, syn
 同时，也在实践 Agent Harness 相关工程能力，包括工具执行边界、结构化校验、失败恢复、错误分类、Tracing、评测与回归测试。
 
 我希望做的不只是聪明的 AI Demo，而是真正可以交付和长期使用的 AI 应用。
-
-**English**
 
 What first excited me about AI was its ability to turn previously unrealistic product ideas into something buildable.
 
@@ -472,8 +448,6 @@ I want to build more than clever AI demos: I want to build systems people can ac
 
 ### 🛠 03 / 全栈开发与系统工程 / Full-Stack & Systems
 
-**中文**
-
 虽然现在最喜欢的方向是前端与 AI，但我的项目经历并不局限于浏览器。
 
 我也做过不少 Java 后端开发，接触过完整的 Web 业务系统、数据库设计、消息队列与容器化环境。
@@ -481,8 +455,6 @@ I want to build more than clever AI demos: I want to build systems people can ac
 在开发 WiseSpend 时，也独立打通了 React、Spring Boot、PostgreSQL 与 Python AI Service 的完整链路。
 
 我喜欢理解一个产品从界面到服务器、从 API 到数据存储的整个运行过程，而不只是负责其中的一小部分。
-
-**English**
 
 Although front-end and AI engineering are my current favorites, my experience extends beyond the browser.
 
@@ -496,8 +468,6 @@ I like understanding how a product works end to end — from interface to server
 
 ### 🧊 04 / 3D Web 与 Blender 建模 / 3D Web & Blender
 
-**中文**
-
 我对 3D 的兴趣，来自一种很简单的想法：如果能把脑子里想象的东西直接做出来，一定很好玩。
 
 从浏览器端的 Three.js 交互，到 Blender 中的建筑与场景建模，我都很喜欢研究几何、空间、材质和用户交互之间的关系。
@@ -507,8 +477,6 @@ I like understanding how a product works end to end — from interface to server
 在山塘街项目中，我又尝试从建模与场景创作的角度表达空间和文化氛围。
 
 我希望未来能够继续探索 3D、Web 和 AI 结合的更多可能。
-
-**English**
 
 My interest in 3D started with a simple thought: it would be incredible to build the things I can imagine.
 
@@ -534,11 +502,7 @@ I'd love to keep exploring what becomes possible when 3D, the web, and AI meet.
 
 ## 💌 联系我 / Contact
 
-**中文**
-
 如果你也喜欢 AI、产品、交互体验，或者脑子里有各种奇怪但有趣的想法，欢迎来找我聊天、交流项目或合作！
-
-**English**
 
 If you're into AI, products, interactive experiences, or unusual ideas worth building, I'd love to chat, exchange ideas, or collaborate.
 
