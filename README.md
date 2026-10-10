@@ -1,18 +1,16 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Fiona — Lavender editorial cover" width="100%" />
+<img src="./assets/hero-banner.svg" alt="Fiona portfolio banner" width="100%" />
 
 # Hello, I'm Fiona! 💜
 
-**徐雨竹 · Front-End / AI Full-Stack / Agent Engineer**
+**徐雨竹 · AI × Product · Full-Stack · Agent · Creative Engineering**
 
 **你好呀，这里是 Fiona！** 一个喜欢探索新技术、设计交互体验，也热衷于把脑洞变成真实产品的开发者。热爱生活，也热爱互联网。喜欢一切新鲜有趣、值得亲自动手尝试的东西。✨
 
 **Hi, I'm Fiona!** I love exploring new technologies, designing interactive experiences, and turning the ideas in my head into real products. I'm equally excited about life and the internet, and I can never resist trying something new and interesting. ✨
 
 `Full-Stack` · `AI Agent` · `3D Web` · `Creative Engineering`
-
-📍 **坐标暂定 / Next stop:** 上海 Shanghai · 杭州 Hangzhou · 深圳 Shenzhen · 或者下一个有趣的地方 / wherever the next exciting opportunity takes me 🌏
 
 [精选作品 / Projects](#-精选作品--selected-works) · [技术方向 / Engineering](#-我的技术方向--engineering-focus) · [联系我 / Contact](#-联系我--contact)
 
@@ -36,7 +34,7 @@
 
 **一些不太正经但很真实的个人标签：**
 
-- ☀️ **ENTP 阳光善良版：** E 值高达 92%，**欢迎找我面试聊天**！真的很喜欢和人交流想法。
+- ☀️ **ENTP 阳光善良版：** E 值高达 92%，**欢迎来找我聊天**！真的很喜欢和人交流想法。
 - 🤖 **重度技术宅：** 遇到喜欢的项目可以每天深度沉浸在 Coding 里。AI 的兴起到底把 ADHD 调成了什么？
 - 🚀 **创业脑袋：** 喜欢从产品和商业价值出发思考问题。IT 创业课程拿过 92 分，也确实很享受从零构思一个产品的过程。
 - 🍸 **调酒艺术家：** 作品颇受好友好评，偶尔研究一下现实世界的配方与用户体验。
@@ -64,7 +62,7 @@ My curiosity about AI goes beyond models themselves. I want to see what AI can m
 
 **A few slightly unserious but very real facts about me:**
 
-- ☀️ **The friendly, sunny ENTP edition:** 92% extroverted. **I'd love to chat in an interview!** I genuinely enjoy exchanging ideas with people.
+- ☀️ **The friendly, sunny ENTP edition:** 92% extroverted. **I'd love to chat!** I genuinely enjoy exchanging ideas with people.
 - 🤖 **Dedicated tech nerd:** I can spend entire days immersed in a project I love. Seriously, what has the AI revolution done to my ADHD?
 - 🚀 **Startup brain:** I enjoy thinking in terms of products and business value. I scored 92 in an IT entrepreneurship course and love taking a product from zero to one.
 - 🍸 **Amateur mixologist:** My cocktails have received very positive reviews from friends. Sometimes I experiment with recipes and user experience in the physical world.
@@ -536,19 +534,11 @@ I'd love to keep exploring what becomes possible when 3D, the web, and AI meet.
 
 **中文**
 
-目前关注 **前端工程师、AI 全栈工程师与 Agent 工程师** 相关机会。
-
-很愿意认识同样对产品、技术、AI 和各种有趣想法充满热情的人！
-
-📍 **意向城市：** 上海 / 杭州 / 深圳，以及其他有趣的机会
+如果你也喜欢 AI、产品、交互体验，或者脑子里有各种奇怪但有趣的想法，欢迎来找我聊天、交流项目或合作！
 
 **English**
 
-I'm exploring opportunities as a **Front-End Engineer, AI Full-Stack Engineer, or Agent Engineer**.
-
-I'd love to connect with people who share my enthusiasm for products, engineering, AI, and unusual ideas!
-
-📍 **Preferred cities:** Shanghai / Hangzhou / Shenzhen — and other exciting opportunities.
+If you're into AI, products, interactive experiences, or unusual ideas worth building, I'd love to chat, exchange ideas, or collaborate.
 
 💻 **GitHub:** [fionaxuxyz](https://github.com/fionaxuxyz)
 
@@ -566,6 +556,6 @@ I'd love to connect with people who share my enthusiasm for products, engineerin
 
 You'll find carefully built products, spontaneous experiments, difficult engineering problems, and things I made simply because they seemed fun. I hope to keep bringing more ideas to life.
 
-*Made with curiosity & a little bit of lavender. 🪻*
+*Built with curiosity, imagination, and way too many ideas. ✨*
 
 </div>
