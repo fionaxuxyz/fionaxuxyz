@@ -2,7 +2,7 @@
 
 <img src="./assets/hero-banner.svg" alt="Fiona portfolio banner" width="100%" />
 
-# Hello, I'm Fiona! 💜
+# Hi, it's Fiona! 💜
 
 **徐雨竹 · AI × Product · Full-Stack · Agent · Creative Engineering**
 
