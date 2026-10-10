@@ -4,7 +4,7 @@
 
 # Hi, it's Fiona! 💜
 
-**徐雨竹 · AI × Product · Full-Stack · Agent · Creative Engineering**
+**AI × Product · Full-Stack · Agent · Creative Engineering**
 
 **你好呀，这里是 Fiona！** 一个喜欢探索新技术、设计交互体验，也热衷于把脑洞变成真实产品的开发者。热爱生活，也热爱互联网。喜欢一切新鲜有趣、值得亲自动手尝试的东西。✨
 
